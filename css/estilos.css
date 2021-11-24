@@ -44,7 +44,8 @@ nav li {
   border-radius: 5px; }
 
 nav li:hover {
-  background-color: #dd4f4f; }
+  background-color: #FF5F58;
+ }
 
 /*Estilos del Body*/
 body {
@@ -57,8 +58,8 @@ main {
 
 
 .titulo_index {
-  color:rgb(18, 211, 146);
-  font-size: 30px;
+  color: #FF5F58;
+  font-size: 38px;
 }
 
 #seccionPrimera {
